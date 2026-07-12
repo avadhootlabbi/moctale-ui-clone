@@ -59,39 +59,7 @@ movieverse-ui/
 
 ---
 
-## 🚀 Getting Started
 
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/movieverse-ui.git
-```
-
-### Navigate to the project
-
-```bash
-cd movieverse-ui
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Start the development server
-
-```bash
-npm run dev
-```
-
-The application will run on:
-
-```
-http://localhost:5173
-```
-
----
 
 ## 📱 Planned Pages
 
